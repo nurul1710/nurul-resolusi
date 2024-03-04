@@ -2,6 +2,7 @@ RENCANA KONTEN NURUL
 - mengedukasi
 - memotivasi
  * para pelajar
+  * para pekerja
 - aplikasi
 - php 
  ^ laravel
