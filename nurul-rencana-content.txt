@@ -4,4 +4,8 @@ RENCANA KONTEN NURUL
  * para pelajar
   * para pekerja
 - aplikasi
+- php 
+ ^ laravel
+- a day in mylife
 - vlog
+- python
