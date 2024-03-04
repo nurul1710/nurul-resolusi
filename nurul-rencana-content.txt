@@ -3,5 +3,8 @@ RENCANA KONTEN NURUL
 - memotivasi
  * para pelajar
 - aplikasi
+- php 
+ ^ laravel
 - a day in mylife
 - vlog
+- python
